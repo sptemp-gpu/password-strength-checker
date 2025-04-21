@@ -1,8 +1,14 @@
 Here’s a polished version of your **README.md** with additional details and the inclusion of icons. I’ve also formatted it to follow common conventions for a clean and professional presentation on GitHub.
 
 ---
+# 🔐 Password Strength Checker
 
-# Password Strength Checker 🛡️🔑
+![License](https://img.shields.io/github/license/sptemp-gpu/password-strength-checker)
+![Last Commit](https://img.shields.io/github/last-commit/sptemp-gpu/password-strength-checker)
+![Stars](https://img.shields.io/github/stars/sptemp-gpu/password-strength-checker?style=social)
+![Issues](https://img.shields.io/github/issues/sptemp-gpu/password-strength-checker)
+![Forks](https://img.shields.io/github/forks/sptemp-gpu/password-strength-checker)
+
 
 This Python application checks the strength of a password based on its length, complexity, and whether it has been involved in a data breach.
 
