@@ -14,7 +14,8 @@ This Python application checks the strength of a password based on its length, c
 - **Real-time feedback**: Provides instant feedback on the strength of the password as you type.
 
 ## Screenshots 📸
-![Password Strength Checker](./screenshots/password-strength-checker.png)
+![image](https://github.com/user-attachments/assets/cf896d4e-fe23-4031-a77c-2bb7509cab27)
+
 
 ## Installation 🛠️:
 ### 1. Clone the repository:
